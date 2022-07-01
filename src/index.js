@@ -10,6 +10,11 @@ const root = ReactDOM.createRoot(el);
 
 // 4. Create a component
 function App() {
+  let message = 'Bye there!'
+  if (Math.random() > 0.5) {
+    message = 'Hello there!'
+  }
+
   return <h1>Hi there!</h1>;
 }
 
