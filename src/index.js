@@ -15,7 +15,7 @@ function App() {
     message = 'Hello there!'
   }
 
-  return <h1>Hi there!</h1>;
+  return <h1>{message}</h1>;
 }
 
 //5. Show the component on the screen
