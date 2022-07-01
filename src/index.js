@@ -15,7 +15,7 @@ function App() {
 
 
   return <h1>
-    {name} {age}
+    Hi my name is {name} and I'm {age}
   </h1>;
 }
 
