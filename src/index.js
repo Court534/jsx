@@ -13,5 +13,5 @@ function App() {
   return <input type='number' min={5} />
 }
 
-//5. Show the component on the screen
+//5. Show the component on the screen 
 root.render(<App />)
