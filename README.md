@@ -1,3 +1,5 @@
+// Reminder to delete readme and create a new one
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
