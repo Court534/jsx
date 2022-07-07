@@ -1,4 +1,4 @@
-// Reminder to delete readme and
+// Reminder 
 
 # Getting Started with Create React App
 
